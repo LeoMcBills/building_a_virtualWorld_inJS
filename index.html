@@ -20,8 +20,8 @@
     <script>
 
         function addRandomSegment() {
-            const index1 = math.floor(Math.random() * graph.points.length);
-            const index2 = math.floor(Math.random() * graph.points.length);
+            const index1 = Math.floor(Math.random() * graph.points.length);
+            const index2 = Math.floor(Math.random() * graph.points.length);
             graph.addSegment(
                 new Segment(
                     graph.points[index1],
