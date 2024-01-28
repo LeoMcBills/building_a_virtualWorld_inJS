@@ -22,7 +22,7 @@
         function addRandomSegment() {
             const index1 = Math.floor(Math.random() * graph.points.length);
             const index2 = Math.floor(Math.random() * graph.points.length);
-            let success = graph.tryAddSegment(
+            const success = graph.tryAddSegment(
                 new Segment(
                     graph.points[index1],
                     graph.points[index2]
