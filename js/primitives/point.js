@@ -10,4 +10,5 @@ class Point {
         ctx.fillStyle = color;
         ctx.arc(this.x, this.y, rad, 0, 2 * Math.PI);
         ctx.fill();
+    }
 }
