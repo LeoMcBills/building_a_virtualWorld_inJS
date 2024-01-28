@@ -18,13 +18,21 @@ class Graph {
             return true;
         }
         return false;
-        
+
+    }
+
+    tryAddSegment(seg) {
+        if (!this.containsSegment(seg)) {
+            this.addSegment(seg);
+            return true;
+        }
+        return false;
     }
 
     addSegment(seg) {
         this.segments.push(seg);
     }
-    
+
     draw(ctx) {
         for (const seg of this.segments) {
             seg.draw(ctx);
