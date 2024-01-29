@@ -97,3 +97,9 @@ while (j < 12) {
     console.log(j + 2);
     j++;
 }
+
+// The date method
+
+let d = Date()
+
+console.log(d);
