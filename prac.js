@@ -77,12 +77,13 @@ console.log(Math);
 
 let i = 0;
 
-for (i; i < 12; i ++) {
-    console.log(i + 1);
-}
+// for (i; i < 12; i ++) {
+//     console.log(i + 1);
+// }
 
 // Another way of wring a for loop
 
-for (let i = 0; i < 12; i++) {
+for (let i = 0; i < 12;) {
     console.log(i + 1);
+    i++;
 }
