@@ -32,3 +32,11 @@ let val;
 
 val = 2 + "2";
 console.log(val);
+
+// template literals in javaScript
+let me;
+let age;
+
+me = "Leo";
+age = "23";
+
