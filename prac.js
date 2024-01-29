@@ -59,4 +59,11 @@ console.log(x);
 
 const myString = 'developer';
 
+x = myString.length;
+
+y = myString.charAt(0);
+y = y.toUpperCase();
+console.log(y);
+// myNewString = `'${y}' + '${myString.slice(1, myString.length)}'`
+myNewString = y + myString.slice(1, myString.length);
 console.log(myNewString);
