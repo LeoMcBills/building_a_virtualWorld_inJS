@@ -177,6 +177,10 @@ const str = JSON.stringify(post);
 
 console.log(str);
 
+const obj = JSON.parse(str);
+
+console.log(obj);
+
 
 
 
