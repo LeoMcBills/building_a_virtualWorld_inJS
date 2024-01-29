@@ -15,3 +15,6 @@ function subtract(a, b) {
 let value;
 value = subtract(6, 2);
 console.log("The value of the subtraction of the numbers input is: " + value);
+
+
+console.log(value, typeof value);
