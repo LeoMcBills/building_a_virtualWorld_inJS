@@ -166,6 +166,12 @@ console.log(player);
 
 // JSON 
 
+const post = {
+    id : 1,
+    title : 'Post One',
+    body : 'This is the body'
+};
+
 
 
 
