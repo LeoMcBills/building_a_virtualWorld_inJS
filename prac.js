@@ -149,3 +149,4 @@ const players = {
     'basketball' : 'Lebron James'
 };
 
+console.log(players)
