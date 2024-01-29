@@ -161,3 +161,6 @@ console.log(player);
 player.id = 12;
 player.name = 'Leo';
 
+console.log(player);
+
+
