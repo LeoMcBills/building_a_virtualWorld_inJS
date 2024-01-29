@@ -40,3 +40,5 @@ let age;
 me = "Leo";
 age = "23";
 
+profile = `My name is ${me} and I am ${age} old.`;
+console.log(profile);
