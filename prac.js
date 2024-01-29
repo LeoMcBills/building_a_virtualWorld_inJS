@@ -56,3 +56,7 @@ x = s[1];
 x = s.__proto__;
 
 console.log(x);
+
+const myString = 'developer';
+
+console.log(myNewString);
