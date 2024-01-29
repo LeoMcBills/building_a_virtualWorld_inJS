@@ -181,6 +181,12 @@ const obj = JSON.parse(str);
 
 console.log(obj);
 
+// Function declaration variant
+function add(a, b) {
+    return a + b,
+};
+
+
 
 
 
