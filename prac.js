@@ -87,3 +87,14 @@ for (let i = 0; i < 12;) {
     console.log(i + 1);
     i++;
 }
+
+// The while loop
+
+let j;
+
+j = 0;
+while (j < 12) {
+    console.log(j + 2);
+    j++;
+}
+
