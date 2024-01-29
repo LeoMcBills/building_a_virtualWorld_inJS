@@ -151,3 +151,7 @@ const players = {
 
 console.log(players)
 console.log(players['foot ball']);
+
+// using a constructor
+
+const player = new Object();
