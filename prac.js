@@ -120,5 +120,8 @@ const num = [12, 1, 43, 1, 54, 23]
 // One with an array constructor
 const fruits = new Array('Apple', 'mango', 'Passion fruit');
 
-console.log(num);
+let number = num[3];
+let fruit = fruits[0];
+
+console.log(number);
 console.log(fruit);
