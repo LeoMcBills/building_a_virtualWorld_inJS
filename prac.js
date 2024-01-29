@@ -16,9 +16,12 @@ let value;
 value = subtract(6, 2);
 console.log("The value of the subtraction of the numbers input is: " + value);
 
-
-
 console.log(value, typeof value);
+
 // NaN is a number type and it means not a number.
 
-csl
+function use() {
+    console.log("This is how to successfully use the ES6 javaScript code snippets for effective code completion");
+}
+
+use();
