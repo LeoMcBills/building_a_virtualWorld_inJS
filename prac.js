@@ -18,3 +18,6 @@ console.log("The value of the subtraction of the numbers input is: " + value);
 
 
 console.log(value, typeof value);
+
+
+// NaN is a number type and it means not a number.
