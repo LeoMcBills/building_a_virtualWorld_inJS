@@ -103,3 +103,9 @@ while (j < 12) {
 let d = Date()
 
 console.log(d);
+
+// set new date
+
+d = new Date(2021, 0, 10, 30, 0);
+console.log(d)
+
