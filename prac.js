@@ -67,3 +67,8 @@ console.log(y);
 // myNewString = `'${y}' + '${myString.slice(1, myString.length)}'`
 myNewString = y + myString.slice(1, myString.length);
 console.log(myNewString);
+
+
+// The Math Object
+
+console.log(Math);
