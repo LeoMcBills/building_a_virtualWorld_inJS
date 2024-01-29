@@ -125,3 +125,11 @@ let fruit = fruits[0];
 
 console.log(number);
 console.log(fruit);
+
+// Object literals
+const person = {
+    name : 'Ochola Maxwell',
+    age : 26,
+    isAdmin: true
+};
+
