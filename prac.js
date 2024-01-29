@@ -143,3 +143,9 @@ np = person['isAdmin'];
 
 console.log(na);
 console.log(np)
+
+const players = {
+    'foot ball' : 'Messi',
+    'basketball' : 'Lebron James'
+};
+
