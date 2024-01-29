@@ -157,3 +157,7 @@ console.log(players['foot ball']);
 const player = new Object();
 
 console.log(player);
+
+player.id = 12;
+player.name = 'Leo';
+
