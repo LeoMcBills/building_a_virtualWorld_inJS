@@ -72,3 +72,11 @@ console.log(myNewString);
 // The Math Object
 
 console.log(Math);
+
+// The for loop
+
+let i = 0;
+
+for (i; i < 12; i ++) {
+    console.log(i + 1);
+}
