@@ -134,3 +134,12 @@ const person = {
 };
 
 console.log(person.name)
+
+let na;
+
+na = person['name'];
+let np;
+np = person['isAdmin'];
+
+console.log(na);
+console.log(np)
