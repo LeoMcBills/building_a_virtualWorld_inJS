@@ -25,3 +25,10 @@ function use() {
 }
 
 use();
+
+// there's an element of type coercion for example the following
+
+let val;
+
+val = 2 + "2";
+console.log(val);
