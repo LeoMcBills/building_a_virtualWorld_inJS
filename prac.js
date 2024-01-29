@@ -133,3 +133,4 @@ const person = {
     isAdmin: true
 };
 
+console.log(person.name)
