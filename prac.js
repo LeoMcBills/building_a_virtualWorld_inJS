@@ -110,3 +110,11 @@ d = new Date(2021, 0, 10, 30, 0);
 console.log(d)
 
 // Note: In javaScript, the date timestamp is in milliseconds not seconds
+
+
+// Dealing with arrays
+
+// One using an array literals
+const num = [12, 1, 43, 1, 54, 23]
+
+// One with an array constructor
