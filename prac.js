@@ -172,7 +172,10 @@ const post = {
     body : 'This is the body'
 };
 
+// convert to JSON string
+const str = JSON.stringify(post);
 
+console.log(str);
 
 
 
