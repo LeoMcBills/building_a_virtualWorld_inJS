@@ -164,3 +164,10 @@ player.name = 'Leo';
 console.log(player);
 
 
+// JSON 
+
+
+
+
+
+
