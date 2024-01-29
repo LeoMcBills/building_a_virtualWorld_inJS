@@ -97,4 +97,3 @@ while (j < 12) {
     console.log(j + 2);
     j++;
 }
-
