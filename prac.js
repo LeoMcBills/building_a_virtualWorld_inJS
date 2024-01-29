@@ -188,6 +188,11 @@ function add(a, b) {
 
 console.log(add(2, 3));
 
+const adder = function (param) {
+    return param * 2
+};
+
+console.log(adder(4));
 
 
 
