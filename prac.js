@@ -42,3 +42,17 @@ age = "23";
 
 profile = `My name is ${me} and I am ${age} old.`;
 console.log(profile);
+
+
+// String Properties and Methods
+
+const s = new String('Hello World');
+
+x = typeof s;
+
+// Access value by key
+x = s[1];
+
+x = s.__proto__;
+
+console.log(x);
