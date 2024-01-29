@@ -155,3 +155,5 @@ console.log(players['foot ball']);
 // using a constructor
 
 const player = new Object();
+
+console.log(player);
